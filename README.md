@@ -7,4 +7,4 @@ We did an approx q learning approach.
 
 File needed is the myTeam_sussy_pacman.py and weights_sussy_pacman.json.  
 
-** Justin Yee, JONATHAN YEH **
+** JONATHAN YEH **
